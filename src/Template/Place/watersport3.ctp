@@ -1,0 +1,1 @@
+<img src="/files/booking/Watersports_Admin_Book.png" usemap="#map" />

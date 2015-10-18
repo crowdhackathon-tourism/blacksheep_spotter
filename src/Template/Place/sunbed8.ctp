@@ -1,0 +1,1 @@
+<img src="/files/booking/Sunbeds_admin_statistics.jpg" usemap="#map" />
